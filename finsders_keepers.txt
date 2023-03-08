@@ -1,0 +1,6 @@
+<span class="detail-val">
+                          <a href="https://helpx.adobe.com/support/xd.html"> XD</a>,
+                          <a href="https://www.adobe.com/products/photoshop-lightroom.html"> Lightroom</a>,
+                          <a href="https://www.adobe.com/products/photoshop.html"> Photoshop</a>,
+                          <a href="https://www.adobe.com/products/premiere.html"> Premaier pro</a>
+                        </span>
